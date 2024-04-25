@@ -9,7 +9,7 @@
 
 <script setup lang="ts">
 import { ref } from 'vue'
-import { pageStore } from '@/stores/index';
+import { pageStore } from '@/stores';
 const title = ref('Hello')
 const page_store = pageStore()
 console.log('message :>> ', page_store.message);
@@ -28,10 +28,7 @@ console.log('message :>> ', page_store.message);
 .logo {
   height: 200rpx;
   width: 200rpx;
-  margin-top: 200rpx;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 50rpx;
+  margin: 200rpx auto 50rpx;
 }
 
 .text-area {
