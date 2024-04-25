@@ -2,7 +2,7 @@
 
 ## 1. 安装依赖
 ```shell
-git clone https://github.com/Guxianfu/uniapp-vue3-ts-vite-pinia.git
+https://github.com/Guxianfu/uniapp-vue3-ts-vite-pinia-tailwind.git
 yarn install
 <!--如果vue报错,可以尝试安装 -->
 yarn upgrade
