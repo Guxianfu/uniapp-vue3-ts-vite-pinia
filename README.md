@@ -1,9 +1,3 @@
-<style>
-.task-list-item-checkbox:checked {
-  background-color: blue;
-}
-</style>
-
 # 项目使用方法
 
 ## 1. 安装依赖
