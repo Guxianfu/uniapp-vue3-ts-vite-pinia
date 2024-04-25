@@ -24,3 +24,4 @@ yarn run build:h5
 - [x] 路由守卫
 - [x] tabbar
 - [x] pinia
+- [ ] http
