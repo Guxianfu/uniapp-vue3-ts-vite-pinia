@@ -1,0 +1,23 @@
+{
+    "locale.auto": "시스템",
+    "locale.en": "English",
+    "locale.zh-Hans": "繁體中文",
+    "locale.ko-KR": "한국어",
+    "close": "닫기",
+    "empty": "비어있는",
+    "transfer": "이체",
+    "switchAccount": "계정 전환",
+    "confirm": "확인",
+    "cancel": "취소",
+    "start": "시작",
+    "next": "다음",
+    "enter_passcode": "비밀번호 입력",
+    "copy": "복사",
+    "verify_now": "지금 확인",
+
+    
+    "tabs.home": "홈",
+    "tabs.assets": "자산",
+    "tabs.shop": "거래",
+    "tabs.my": "프로필"
+}

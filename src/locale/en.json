@@ -1,0 +1,23 @@
+{
+    "locale.auto": "System",
+    "locale.en": "English",
+    "locale.zh-Hans": "繁體中文",
+    "locale.ko-KR": "한국어",
+    "close": "Close",
+    "empty": "Empty",
+    "transfer": "Transfer",
+    "switchAccount": "Switch account",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "start": "Start",
+    "next": "Next",
+    "enter_passcode": "Enter Passcode",
+    "copy": "Copy",
+    "verify_now": "Verify Now",
+
+
+    "tabs.home": "Home",
+    "tabs.assets": "Asset",
+    "tabs.shop": "Transaction",
+    "tabs.my": "Profile"
+}

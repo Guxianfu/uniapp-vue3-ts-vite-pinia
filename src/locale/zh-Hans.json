@@ -1,0 +1,23 @@
+{
+    "locale.auto": "系统",
+    "locale.en": "English",
+    "locale.zh-Hans": "繁體中文",
+    "locale.ko-KR": "한국어",
+    "close": "關閉",
+    "empty": "空",
+    "transfer": "轉帳",
+    "switchAccount": "切換帳戶",
+    "confirm": "確認",
+    "cancel": "取消",
+    "start": "開始",
+    "next": "下一步",
+    "enter_passcode": "輸入密碼",
+    "copy": "複製",
+    "verify_now": "立即驗證",
+
+
+    "tabs.home": "首頁",
+    "tabs.assets": "資產",
+    "tabs.shop": "交易",
+    "tabs.my": "個人檔案"
+}
