@@ -39,3 +39,4 @@ list.forEach((item) => {
         },
     });
 });
+export {}
